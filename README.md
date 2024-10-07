@@ -1,11 +1,5 @@
 # This is an Exercise for DCI
 
-<style>    
-   .heading {
-    color: darkblue;
-   }
-</style>
-
 <h3 class="heading">
 What is your name?</h3>
 <p>My name is Kai!</p>
