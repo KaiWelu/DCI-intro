@@ -30,6 +30,8 @@ What do you want to learn?</h3>
 <li>Backend Architecture</li>
 <li>Swagger</li>
 <li>Gradle</li>
+<li>Domain-driven Design</li>
+<li>AWS</li>
 </ul>
 
 <h3 class="heading">
